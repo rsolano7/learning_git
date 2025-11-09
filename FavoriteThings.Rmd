@@ -1,14 +1,15 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Rene Solano"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Praying 
+ - Dancing 
+ - Being with Friends and Family
+ - Eating
+ - Helping
 
 🍴
